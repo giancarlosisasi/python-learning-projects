@@ -9,3 +9,7 @@ A simple dice roller that allows you to roll a dice and see the results.
 ## Hangman
 
 A simple hangman game that allows you to guess a word and see the results.
+
+## Number guessing
+
+A simple number guessing game that allows you to guess a number and see the results.
